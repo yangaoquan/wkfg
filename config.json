@@ -1,5 +1,5 @@
 {
-  "log": { "level": "info", "timestamp": true },
+  "log": { "level": "debug", "timestamp": true },
   "inbounds": [{
     "type": "vless",
     "tag": "vless-in",
